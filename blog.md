@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
+I find energy through writing. I have always been delighted by English as a language (though it has its quirks and idiosyncracies) (Also, maybe once I learn Sanskrit or German, I will think otherwise). Will be updated soon.
 
 <ul class="listing">
 {% for post in site.posts %}

@@ -4,7 +4,27 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/Avatar.jpg" caption="Mythreyi Ramesh." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+I am **Mythreyi Ramesh**, currently pursuing a Dual Degree (B.Tech in Metallurgical and Materials Engineering + M.Tech in Computational Engineering) at **Indian Institue of Technology Madras**.
+
+### **Research Interests**
+* Computational Materials Engineering
+	- First principles (_ab initio_) calculations
+	- Multiscale modelling of defects in crystalline solids
+
+### **Coursework**
+
+#### **Computational Engineering**
+* Computationals Materials Thermodynamics
+* Atomistic Modelling of Materials
+
+#### **Materials Science**
+
+* Defects in Materials
+* Transport Phenomena in Materials
+* Thermodynamics of Materials
+* Physics of Materials
+* Materials Characterisation
+
 

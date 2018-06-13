@@ -8,8 +8,6 @@
       subhref: "/links/interesting-books/"
     - subtitle: "Bookmarks"
       subhref: "/links/bookmarks/"
-    - subtitle: "Playlists"
-      subhref: "/links/playlists/"
 
 - title: "Blog"
   href: "/blog/"
