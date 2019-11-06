@@ -1,8 +1,8 @@
 # Site settings
 title: Mythreyi Ramesh
-email: mythreyi.rr@gmail.com
+email: mythreyiramesh7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Homepage of Mythreyi Ramesh, 4th Year Dual Degree (B.Tech in Metallurgical and Materials Engineering + M.Tech in Computational Engineering), Indian Institute of Technology Madras, India.
+  Website of Mythreyi Ramesh, a final year undergraduate student at the Indian Institute of Technology Madras, Chennai, India.
 baseurl: "" # the subpath of your site, e.g. /blog/
 github_username:  mythreyiramesh
 

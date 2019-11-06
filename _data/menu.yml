@@ -1,13 +1,26 @@
 - title: "About"
   href: "/about/"
 
-- title: "Links"
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Projects"
+      subhref: "/research/projects/"
+    - subtitle: "CV"
+      subhref: "/cv/"
+
+- title: "Writing"
+  href: "/writing/"
+  subcategories:
+    - subtitle: "Science Communication"
+      subhref: "/writing/science-communication/"
+    - subtitle: "Blog"
+      subhref: "/blog/"
+
+- title: "Miscellany"
   href: "/links/"
   subcategories:
+    - subtitle: "Useful Resources"
+      subhref: "/links/resources/"
     - subtitle: "Interesting Books"
       subhref: "/links/interesting-books/"
-    - subtitle: "Bookmarks"
-      subhref: "/links/bookmarks/"
-
-- title: "Blog"
-  href: "/blog/"

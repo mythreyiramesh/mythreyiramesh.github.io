@@ -4,17 +4,26 @@ title: Interesting Books
 permalink: /links/interesting-books/
 ---
 
-## Science History
-* **The Upright Thinkers** by _Leonard Mlodinow_
+# Science
+* _The Upright Thinkers_ by **Leonard Mlodinow**
+* _Phantoms in the Brain_ by **Vilayanur S. Ramachandran**
+* _The Idiot Brain_ by **Dean Burnett**
+* _The Hidden Maths of Everyday Life_ by **Jordan Ellenberg**
 
-## The Brain and Cognitive Psychology
-* **The Power of Habit** by _Charles Duhigg_
-* **Phantoms in the Brain** by _Vilayanur S. Ramachandran_
-* **The Idiot Brain** by _Dean Burnett_
+# Biography
+* _Feynman's Rainbow_ by **Leonard Mlodinow**
+* _Wings of Fire_ by **A. P. J. Abdul Kalam**
+* _Surely You're Joking, Mr. Feynman_ by **Richard P. Feynman**
 
-## Fiction
-* **Harry Potter and the Methods of Rationality** by _Eliezer Yudkowsky_
-* **Steelheart** by _Brandon Sanderson_
-* **Angels and Demons** by _Dan Brown_
+# Other Non-Fiction
+* _Eats, Shoots and Leaves_ by **Lynne Truss**
+* _So Good They Can't Ignore You_ by **Cal Newport**
+* _Deep Work_ by **Cal Newport**
+* _The Power of Habit_ by **Charles Duhigg**
 
-To learn more about what books I have read, am reading or will read, check out my profile at <a href="https://goodreads.com/mythreyiramesh" target="_blank">Goodreads</a>.
+# Fiction
+* _Harry Potter and the Methods of Rationality_ by **Eliezer Yudkowsky**
+* _Mistborn_ by **Brandon Sanderson**
+* _Angels and Demons_ by **Dan Brown**
+
+To learn more about what books I have read, am reading or will read, do check out my profile at <a href="https://goodreads.com/mythreyiramesh" target="_blank">Goodreads</a>.

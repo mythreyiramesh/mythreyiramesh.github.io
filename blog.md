@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I find energy through writing. I have always been delighted by English as a language (though it has its quirks and idiosyncracies) (Also, maybe once I learn Sanskrit or German, I will think otherwise). Will be updated soon.
+This space will be populated soon. Meanwhile, you can read some of my writing on [Medium](https://medium.com/@mythreyi){:target="_blank"}.
 
 <ul class="listing">
 {% for post in site.posts %}
