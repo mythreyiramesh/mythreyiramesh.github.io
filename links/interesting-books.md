@@ -9,6 +9,7 @@ permalink: /links/interesting-books/
 * _Phantoms in the Brain_ by **Vilayanur S. Ramachandran**
 * _The Idiot Brain_ by **Dean Burnett**
 * _The Hidden Maths of Everyday Life_ by **Jordan Ellenberg**
+* <i>E=mc<sup>2</sup></i>: _A Biography of the World's Most Famous Equation_ by **David Bodanis**
 
 # Biography
 * _Feynman's Rainbow_ by **Leonard Mlodinow**

@@ -8,6 +8,7 @@ Here, I have listed some tools that I have found to be indispensable at times.
 
 # Writing Mathematics
 * [Mathpix Snip Tool](https://mathpix.com){:target="_blank"}: For extracting LaTeX from images and webpages; requires internet for functioning.
+* [Detexify](http://detexify.kirelabs.org/classify.html){:target="_blank"}: For quickly getting the LaTeX command for symbols.
 * [Overleaf](https://www.overleaf.com){:target="_blank"}: For collaborating on LaTeX files.
 * [TeX Stack Exchange](https://tex.stackexchange.com){:target="_blank"}, of course.
 
