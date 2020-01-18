@@ -17,10 +17,10 @@
     - subtitle: "Blog"
       subhref: "/blog/"
 
-- title: "Miscellany"
+- title: "Resources"
   href: "/links/"
   subcategories:
-    - subtitle: "Useful Resources"
+    - subtitle: "Useful Tools"
       subhref: "/links/resources/"
     - subtitle: "Interesting Books"
       subhref: "/links/interesting-books/"

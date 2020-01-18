@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Resources
+title: Useful Tools
 permalink: /links/resources/
 ---
 

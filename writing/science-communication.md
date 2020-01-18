@@ -19,7 +19,7 @@ So, science writing could be a win-win for both the reader and the writer.
 ## My activities
 
 ### **Immerse - The Annual IIT Madras Science Magazine**
-I have been associated with the IIT Madras Magazine on Research in Science and Engineering (IMMERSE) from 2016 to 2019. The aim of Immerse is to tell stories about the research at IIT Madras and to highlight the the excitement of discovery and innovation. Immerse writers talk to professors and their graduate students, read up on the research and write articles about the work.
+I have been associated with the IIT Madras Magazine on Research in Science and Engineering (IMMERSE) from 2016 to 2019. The aim of Immerse is to tell stories about the research at IIT Madras and to highlight the excitement of discovery and innovation. Immerse writers talk to professors and their graduate students, read up on the research and write articles about the work.
 
 I was a writer for three annual editions and also served on the Editorial Board for the 2017-18 Edition. Listed below are the article I wrote for Immerse:
 * **Combating Cancer - Scaling Heights by Scaling Down**, Immerse 2016-17 Edition. \[[PDF](/files/Immerse/Immerse_2017_Article.pdf){:target="_blank"}\].
