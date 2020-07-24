@@ -4,3 +4,9 @@ _site
 files/.DS_Store
 images/.DS_Store
 writing/.DS_Store
+.jekyll-cache
+Gemfile.lock
+mythreyi-website.gemspec
+vendor
+*.gem
+.bundle
