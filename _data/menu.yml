@@ -1,21 +1,8 @@
-- title: "About"
-  href: "/about/"
-
 - title: "Research"
   href: "/research/"
-  subcategories:
-    - subtitle: "Projects"
-      subhref: "/research/projects/"
-    - subtitle: "CV"
-      subhref: "/cv/"
 
 - title: "Writing"
   href: "/writing/"
 
 - title: "Resources"
-  href: "/links/"
-  subcategories:
-    - subtitle: "Useful Tools"
-      subhref: "/links/resources/"
-    - subtitle: "Interesting Books"
-      subhref: "/links/interesting-books/"
+  href: "/resources/"
