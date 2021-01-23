@@ -21,6 +21,7 @@ I have listed below some tools and utilities that I have found to be indispensab
 * [Homebrew](https://brew.sh){:target="_blank"}, naturally.
 
 ### Miscellaneous
+* [Emacs](https://www.gnu.org/software/emacs/){:target="_blank"}: I use [Doom](https://github.com/hlissner/doom-emacs){:target="_blank"} because I prefer to use Vim keybindings.
 * [Typora](https://www.alfredapp.com){:target="_blank"}: A resourceful markdown editor.
 * [Trello](https://trello.com){:target="_blank"}: A tool to stay organised.
 * [RoamResearch](https://roamresearch.com){:target="_blank"}: A great tool to approach note-taking with graphs and relationships in mind.
